@@ -67,7 +67,8 @@ intégration dans le générateur BF complet ;
 finalisation du PCB.
 Vidéo associée
 
-DFTAxxx - Générateur BF DIY - Réalisation de l'alimentation symétrique ±12V par masse virtuelle
+DFTA266TER  - Générateur BF DIY - RAIL SPLITTER AOP : https://youtu.be/D2XhKlnVvlU
+
 
 Comme toujours :
 
